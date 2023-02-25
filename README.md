@@ -1,7 +1,7 @@
 ### Hi👋, I'm PruthviKuar U
 
 <!--
-**PruthviKumaru/PruthviKumarU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PruthviKumaru/PruthviKumarU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 A Passionate Software developer, Exploring new techs and things!
 EX-SSSSBHS, Ex-VMCPU , Ex-GECR
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at https://github.com/PruthviKumaru
 
 -->🚀 Languages and Tools:
-                   
+             
 
 
  
