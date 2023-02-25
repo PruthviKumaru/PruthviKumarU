@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: projectplans34@gmail.com
 - 👨‍💻 All of my projects are available at https://github.com/PruthviKumaru
 
--->🚀 Languages and Tools:
+
              
 
 
